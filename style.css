@@ -120,13 +120,12 @@ section .title::after{
 .Abt{
     background:linear-gradient(120deg,  #33d0ff,#fd0ad5);
     width: 100%;
-  
+    height: 100vh;
 }
 .home{
    
     width: 100%;
-   
-   
+    height: 100vh;
 
 }
 
